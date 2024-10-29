@@ -1,0 +1,1 @@
+python3 /home/mani/etl_process.py
