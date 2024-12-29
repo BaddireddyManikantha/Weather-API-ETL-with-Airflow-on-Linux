@@ -60,7 +60,7 @@ Step 4: Install Apache Airflow with Constraints
 
 Set Airflow constraints:
 
-AIRFLOW_VERSION=2.6.2
+AIRFLOW_VERSION=2.10.4
 
 PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"
 
